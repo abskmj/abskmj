@@ -13,4 +13,5 @@
 - Enjoys watching movies & listening to music
 - Currenlty plays [Ashphalt 9: Legends](https://asphaltlegends.com/) on his android phone 
 
-![](https://badges.lastfm.workers.dev/last-played?user=abhishekmajhi&style=for-the-badge)
+[![](https://img.shields.io/static/v1?label=Message&color=blue&logo=twitter&user=rj&message=@abskmj&style=for-the-badge)](https://twitter.com/messages/compose?recipient_id=1286526475374534657)
+[![](https://badges.lastfm.workers.dev/last-played?user=abhishekmajhi&style=for-the-badge)](https://www.last.fm/user/abhishekmajhi)
